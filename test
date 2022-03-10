@@ -1,0 +1,7 @@
+ const num = (n) => {
+	if(n <= 50 && n % 2 === 0) {
+	return n; 
+		}
+
+	}		
+
